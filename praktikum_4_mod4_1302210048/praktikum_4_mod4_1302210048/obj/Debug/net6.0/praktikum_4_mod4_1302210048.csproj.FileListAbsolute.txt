@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\bin\Debug\net6.0\praktikum_4_mod4_1302210048.exe
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\bin\Debug\net6.0\praktikum_4_mod4_1302210048.deps.json
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\bin\Debug\net6.0\praktikum_4_mod4_1302210048.runtimeconfig.json
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\bin\Debug\net6.0\praktikum_4_mod4_1302210048.dll
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\bin\Debug\net6.0\praktikum_4_mod4_1302210048.pdb
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\obj\Debug\net6.0\praktikum_4_mod4_1302210048.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\obj\Debug\net6.0\praktikum_4_mod4_1302210048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\obj\Debug\net6.0\praktikum_4_mod4_1302210048.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\obj\Debug\net6.0\praktikum_4_mod4_1302210048.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\obj\Debug\net6.0\praktikum_4_mod4_1302210048.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\obj\Debug\net6.0\praktikum_4_mod4_1302210048.dll
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\obj\Debug\net6.0\refint\praktikum_4_mod4_1302210048.dll
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\obj\Debug\net6.0\praktikum_4_mod4_1302210048.pdb
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\obj\Debug\net6.0\praktikum_4_mod4_1302210048.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\source\repos\praktikum_4_mod4_1302210048\praktikum_4_mod4_1302210048\obj\Debug\net6.0\ref\praktikum_4_mod4_1302210048.dll
